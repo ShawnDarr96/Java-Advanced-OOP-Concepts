@@ -1,0 +1,5 @@
+Starting of application
+Building the ArrayList created and filled
+Recursive print completed
+Iterative print completed
+Program has been terminated
